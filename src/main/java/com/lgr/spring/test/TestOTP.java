@@ -1,6 +1,9 @@
-package com.lgr.spring.dto;
+package com.lgr.spring.test;
 
 import java.util.Date;
+
+import com.lgr.spring.dto.OtpServer;
+import com.lgr.spring.dto.OtpWAS;
 
 public class TestOTP {
 	
